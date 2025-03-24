@@ -2,7 +2,7 @@ import random
 
 
 def hangman_game():
-    # 1. 准备一些单词供随机选择
+    # 1. 准备一些单词供随机选择okok
     word_list = ["python", "javascript", "hangman", "programming",
                  "complex", "development", "function", "variable",
                  "algorithm", "virtual"]
